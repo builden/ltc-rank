@@ -1,6 +1,6 @@
 {
   "name": "ltc-rank",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "ltc-rank for record rank info",
   "main": "lib/rank.js",
   "scripts": {
